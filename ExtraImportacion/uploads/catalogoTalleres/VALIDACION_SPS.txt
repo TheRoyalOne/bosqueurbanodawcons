@@ -1,0 +1,76 @@
+
+*Siniestros*
+Pestaña reporte:
+v	-SPS_ObtenerAseguradoras 	select aseguradoras	
+v	-SPS_BuscarAseguradoraDetalle	opc 1 para  select Sucursales
+v-	-SPS_ObtenerAjustadores         select ajustadores posibles
+v-	SPI_InsertaSiniestroContacto		devuelve el id QUe se ocupa	
+v-	SPI_InsertaDomicilio			devuelve el id QUe se ocupa	
+v-	SPI_InsertaSiniestroCita		devuelve el id QUe se ocupa	
+V-	SPI_InsertarSiniestrosReporte		
+
+
+Pestaña Poliza:
+V-	SPI_InsertaDomicilio
+v-	SPI_InsertaSiniestroPoliza
+v-	SPS_ObtenerMatrizDocsGiros
+
+Pestaña Coberturas:
+v-	SPS_ObtenerRamoAsociadoSubramos  	select ramos
+v-	SPS_ObtenerSiniestrosSubramos		select dependiente de ramos
+v-	SPI_InsertaSiniestroDeducible	(devuelve el id necesitado en cobertura)
+v-	SPI_InsertaSiniestroCobertura	(Necesita el ID siniestro general del SPI_InsertaSiniestroGeneral)
+
+Pestaña Siniestro:
+v-	SPI_InsertaSiniestroAnalisisSiniestro	(Devuelve el id necesario en SPI_InsertaSiniestroDetalleSiniestro
+v-	SPI_InsertaSiniestroDetalleSiniestro    (devuelve el id de detalle de siniestro)
+v-	SPI_InsertaSiniestroGeneral  		(devuelve el id IdGeneralSiniestro)
+
+Pestaña endosos:
+v-	SPI_InsertaSiniestroEndosos
+
+
+
+Obtener datosPrecargados	(Por pestaña)
+v-SPS_BuscarSiniestrosDetalleReporte
+v-SPS_BuscarSiniestrosDetallePoliza
+v-SPS_BuscarSiniestrosDetalleCoberturas
+v-SPS_BuscarSiniestrosDetalleSiniestro
+v-SPS_BuscarSiniestrosDetalleEndosos
+
+
+*UPDATE*
+Pestaña reporte:
+v-	SPU_ActualizarSiniestrosReporte
+v-	SPU_ActualizarSiniestroCita
+v-	SPU_ActualizarDomicilio
+v-	SPU_ActualizarSiniestroContacto
+Pestaña Poliza:
+v-	SPU_ActualizarDomicilio
+v-	SPU_ActualizarSiniestroPoliza
+Pestaña Coberturas:
+v-	SPU_ActualizarSiniestroDeducible
+V-	SPU_ActualizarSiniestroCobertura
+Pestaña Siniestro:
+v-	SPU_ActualizarSiniestroAnalisisSiniestro
+V-	SPU_ActualizarSiniestroDetalleSiniestro
+v-	SPU_ActualizarSiniestroGeneral
+Pestaña endosos:
+V-	SPU_ActualizarSiniestroEndosos
+		
+
+--- Adicionales
+SPD_OcultarCoberturas
+SPD_OcultarEndosos
+
+
+
+
+	
+	
+	
+		
+		
+	
+
+	

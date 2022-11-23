@@ -1,0 +1,252 @@
+/*!
+ * Start Bootstrap - SB Admin (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+/* Global Styles */
+
+body {
+    margin-top: 100px;
+    background-color: #f9f9f9;
+}
+
+@media(min-width:768px) {
+    body {
+        margin-top: 50px;
+    }
+}
+
+#wrapper {
+    padding-left: 0;
+}
+
+.page-header {
+    color: #00A89C !important;
+}
+
+#page-wrapper {
+    width: 100%;
+    padding: 0;
+    background-color: #fff;
+}
+
+.huge {
+    font-size: 50px;
+    line-height: normal;
+}
+
+@media(min-width:768px) {
+    #wrapper {
+        padding-left: 225px;
+    }
+    #page-wrapper {
+        padding: 10px;
+    }
+}
+
+
+/* Top Navigation */
+
+.navbar {
+    background-color: #fff;
+    border-bottom-color: #fff;
+    box-shadow: 0 2px 20px 5px #DDE0DF;
+}
+
+.top-nav {
+    padding: 0 15px;
+}
+
+.top-nav>li {
+    display: inline-block;
+    float: left;
+}
+
+.top-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 20px;
+    color: #999;
+}
+
+.top-nav>li>a:hover,
+.top-nav>li>a:focus,
+.top-nav>.open>a,
+.top-nav>.open>a:hover,
+.top-nav>.open>a:focus {
+    color: #fff;
+    background-color: #007F73;
+}
+
+.top-nav>.open>.dropdown-menu {
+    float: left;
+    position: absolute;
+    margin-top: 0;
+    border: 1px solid rgba(0, 0, 0, .15);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background-color: #fff;
+    -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+}
+
+.top-nav>.open>.dropdown-menu>li>a {
+    white-space: normal;
+}
+
+ul.message-dropdown {
+    padding: 0;
+    max-height: 250px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+li.message-preview {
+    width: 275px;
+    border-bottom: 1px solid rgba(0, 0, 0, .15);
+}
+
+li.message-preview>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+li.message-footer {
+    margin: 5px 0;
+}
+
+ul.alert-dropdown {
+    width: 200px;
+}
+
+
+/* Side Navigation */
+
+@media(min-width:768px) {
+    .side-nav {
+        position: fixed;
+        top: 51px;
+        left: 225px;
+        width: 225px;
+        margin-left: -225px;
+        border: none;
+        border-radius: 0;
+        overflow-y: auto;
+        background-color: #00A89C;
+        bottom: 0;
+        overflow-x: hidden;
+        padding-bottom: 40px;
+    }
+    .side-nav>li>a {
+        color: #fff !important;
+        width: 225px;
+    }
+    .side-nav li a:hover,
+    .side-nav li a:focus {
+        outline: none;
+        background-color: #007F73 !important;
+    }
+}
+
+.side-nav>li>ul {
+    padding: 0;
+}
+
+.side-nav>li>ul>li>a {
+    display: block;
+    padding: 10px 15px 10px 38px;
+    text-decoration: none;
+    background-color: #007F73;
+    color: #C3E5D5;
+}
+
+.side-nav>li>ul>li>a:hover {
+    background-color: #C3E5D5 !important;
+    color: #333333;
+}
+
+.btn-primary {
+    background-color: #FC9C1B;
+    border-color: #FC9C1B;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: #F48500;
+    border-color: #F48500;
+}
+
+.btn-primary:active {
+    background-color: #D87100 !important;
+    border-color: #D87100 !important;
+}
+
+.btn-login {
+    background-color: #00A89C !important;
+    border-color: #00A89C !important;
+    width: 100% !important;
+}
+
+.btn-login:active {
+    background-color: #028a80 !important;
+    border-color: #028a80 !important;
+}
+
+.input-group-addon {
+    color: #FFFFFF !important;
+    background-color: #00a89c !important;
+    border: 1px solid #00a89c !important;
+}
+
+.noPad-right {
+    padding-right: 0 !important;
+}
+
+.noPad-left {
+    padding-left: 0 !important;
+}
+
+.lblEtiqueta {
+    color: #00a89c;
+    padding-top: 7px;
+    border-bottom: 1px solid #00a89c;
+}
+
+.lblEtiqueta:hover {
+    color: #028a80;
+    border-bottom: 1px solid #028a80;
+}
+
+.puntero {
+    cursor: pointer;
+}
+
+.lblTotalArboles {
+    font-size: 50px;
+    color: #028a80;
+    border-bottom: 3px solid #028a80;
+    border-radius: 4px;
+}
+
+.panel-default {
+    border-color: #00a89c !important;
+}
+
+.panel-default>.panel-heading {
+    border-color: #00a89c !important;
+}
+
+.txtLogin {
+    border-color: #00a89c !important;
+}
+
+.page-header {
+    margin-top: 20px !important;
+    margin-bottom: 10px !important;
+}
+
+.lblTitulo {
+    font-size: 16px !important;
+}

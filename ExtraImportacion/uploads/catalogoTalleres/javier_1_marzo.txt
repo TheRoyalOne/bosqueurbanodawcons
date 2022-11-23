@@ -1,0 +1,28 @@
+Contactos removidos... existian con dif prospecto num pero igual celular
+REMOVE MASTER (app quita duplicados)
+
+un mismo numero puede ser prospecto y cliente a la vez
+
+
+HACER UN CORREO DEL DOMINIO DE HUK para que llegue desde ahi
+
+numero de contacto (en registracion debe ser celular)
+
+en referidos la primera vez q se conecte...una bienvenida con su us y contraseña
+
+
+llevar control de fecha de cuando acepto registrarse y cuando se le vence (y en automatico se autorenueva)
+y le manda aviso por correo
+
+
+
+
+
+
+
+arreglar para el prellenar
+etiqueta
+y el correo.
+y la fecha de vigencia de cuando se registra
+
+(una columna de fecha de fin pero no se hace )

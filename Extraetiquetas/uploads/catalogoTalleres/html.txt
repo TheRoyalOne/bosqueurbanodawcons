@@ -1,0 +1,893 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40\">
+
+<head>
+    <meta charset="UTF-8">
+    <xml>
+        <w:worddocument>
+            <w:view>Print</w:view>
+            <w:zoom>90</w:zoom>
+            <w:donotoptimizeforbrowser />
+        </w:worddocument>
+    </xml>
+    <style>
+        <!--
+        /* Font Definitions */
+        @font-face {
+            font-family: Wingdings;
+            panose-1: 5 0 0 0 0 0 0 0 0 0;
+        }
+
+        @font-face {
+            font-family: "Cambria Math";
+            panose-1: 2 4 5 3 5 4 6 3 2 4;
+        }
+
+        @font-face {
+            font-family: Calibri;
+            panose-1: 2 15 5 2 2 2 4 3 2 4;
+        }
+
+        @font-face {
+            font-family: Tahoma;
+            panose-1: 2 11 6 4 3 5 4 4 2 4;
+        }
+        /* Style Definitions */
+        p.MsoNormal, li.MsoNormal, div.MsoNormal {
+            margin: 0cm;
+            margin-bottom: .0001pt;
+            font-size: 12.0pt;
+            font-family: "Times New Roman","serif";
+        }
+
+        h1 {
+            mso-style-link: "Heading 1 Char";
+            margin: 0cm;
+            margin-bottom: .0001pt;
+            page-break-after: avoid;
+            font-size: 8.0pt;
+            font-family: "Arial","sans-serif";
+            font-weight: normal;
+            text-decoration: underline;
+        }
+
+        h3 {
+            mso-style-link: "Heading 3 Char";
+            margin-top: 10.0pt;
+            margin-right: 0cm;
+            margin-bottom: 0cm;
+            margin-left: 0cm;
+            margin-bottom: .0001pt;
+            page-break-after: avoid;
+            font-size: 12.0pt;
+            font-family: "Cambria","serif";
+            color: #4F81BD;
+            font-weight: bold;
+        }
+
+        h4 {
+            mso-style-link: "Heading 4 Char";
+            margin-top: 10.0pt;
+            margin-right: 0cm;
+            margin-bottom: 0cm;
+            margin-left: 0cm;
+            margin-bottom: .0001pt;
+            page-break-after: avoid;
+            font-size: 12.0pt;
+            font-family: "Cambria","serif";
+            color: #4F81BD;
+            font-weight: bold;
+            font-style: italic;
+        }
+
+        h5 {
+            mso-style-link: "Heading 5 Char";
+            margin-top: 10.0pt;
+            margin-right: 0cm;
+            margin-bottom: 0cm;
+            margin-left: 0cm;
+            margin-bottom: .0001pt;
+            page-break-after: avoid;
+            font-size: 12.0pt;
+            font-family: "Cambria","serif";
+            color: #243F60;
+            font-weight: normal;
+        }
+
+        h6 {
+            mso-style-link: "Heading 6 Char";
+            margin-top: 10.0pt;
+            margin-right: 0cm;
+            margin-bottom: 0cm;
+            margin-left: 0cm;
+            margin-bottom: .0001pt;
+            page-break-after: avoid;
+            font-size: 12.0pt;
+            font-family: "Cambria","serif";
+            color: #243F60;
+            font-weight: normal;
+            font-style: italic;
+        }
+
+        p.MsoHeading7, li.MsoHeading7, div.MsoHeading7 {
+            mso-style-link: "Heading 7 Char";
+            margin-top: 10.0pt;
+            margin-right: 0cm;
+            margin-bottom: 0cm;
+            margin-left: 0cm;
+            margin-bottom: .0001pt;
+            page-break-after: avoid;
+            font-size: 12.0pt;
+            font-family: "Cambria","serif";
+            color: #404040;
+            font-style: italic;
+        }
+
+        p.MsoHeading8, li.MsoHeading8, div.MsoHeading8 {
+            mso-style-link: "Heading 8 Char";
+            margin-top: 10.0pt;
+            margin-right: 0cm;
+            margin-bottom: 0cm;
+            margin-left: 0cm;
+            margin-bottom: .0001pt;
+            page-break-after: avoid;
+            font-size: 10.0pt;
+            font-family: "Cambria","serif";
+            color: #404040;
+        }
+
+        p.MsoHeader, li.MsoHeader, div.MsoHeader {
+            mso-style-link: "Header Char";
+            margin: 0cm;
+            margin-bottom: .0001pt;
+            font-size: 11.0pt;
+            font-family: "Calibri","sans-serif";
+        }
+
+        p.MsoFooter, li.MsoFooter, div.MsoFooter {
+            mso-style-link: "Footer Char";
+            margin: 0cm;
+            margin-bottom: .0001pt;
+            font-size: 11.0pt;
+            font-family: "Calibri","sans-serif";
+        }
+
+        p.MsoCaption, li.MsoCaption, div.MsoCaption {
+            margin: 0cm;
+            margin-bottom: .0001pt;
+            text-align: center;
+            font-size: 12.0pt;
+            font-family: "Times New Roman","serif";
+            font-weight: bold;
+            text-decoration: underline;
+        }
+
+        p.MsoBodyText, li.MsoBodyText, div.MsoBodyText {
+            mso-style-link: "Body Text Char";
+            margin: 0cm;
+            margin-bottom: .0001pt;
+            text-align: justify;
+            font-size: 10.0pt;
+            font-family: "Times New Roman","serif";
+        }
+
+        p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3 {
+            mso-style-link: "Body Text 3 Char";
+            margin: 0cm;
+            margin-bottom: .0001pt;
+            text-align: justify;
+            font-size: 12.0pt;
+            font-family: "Times New Roman","serif";
+        }
+
+        p {
+            margin-right: 0cm;
+            margin-left: 0cm;
+            font-size: 12.0pt;
+            font-family: "Times New Roman","serif";
+        }
+
+            p.MsoAcetate, li.MsoAcetate, div.MsoAcetate {
+                mso-style-link: "Balloon Text Char";
+                margin: 0cm;
+                margin-bottom: .0001pt;
+                font-size: 8.0pt;
+                font-family: "Tahoma","sans-serif";
+            }
+
+        span.MsoPlaceholderText {
+            color: gray;
+        }
+
+        p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {
+            margin-top: 0cm;
+            margin-right: 0cm;
+            margin-bottom: 0cm;
+            margin-left: 36.0pt;
+            margin-bottom: .0001pt;
+            font-size: 11.0pt;
+            font-family: "Calibri","sans-serif";
+        }
+
+        span.HeaderChar {
+            mso-style-name: "Header Char";
+            mso-style-link: Header;
+        }
+
+        span.FooterChar {
+            mso-style-name: "Footer Char";
+            mso-style-link: Footer;
+        }
+
+        span.BalloonTextChar {
+            mso-style-name: "Balloon Text Char";
+            mso-style-link: "Balloon Text";
+            font-family: "Tahoma","sans-serif";
+        }
+
+        span.Heading1Char {
+            mso-style-name: "Heading 1 Char";
+            mso-style-link: "Heading 1";
+            font-family: "Arial","sans-serif";
+            text-decoration: underline;
+        }
+
+        p.Textodeglobo1, li.Textodeglobo1, div.Textodeglobo1 {
+            mso-style-name: "Texto de globo1";
+            margin: 0cm;
+            margin-bottom: .0001pt;
+            font-size: 8.0pt;
+            font-family: "Tahoma","sans-serif";
+        }
+
+        span.BodyText3Char {
+            mso-style-name: "Body Text 3 Char";
+            mso-style-link: "Body Text 3";
+            font-family: "Times New Roman","serif";
+        }
+
+        span.BodyTextChar {
+            mso-style-name: "Body Text Char";
+            mso-style-link: "Body Text";
+            font-family: "Times New Roman","serif";
+        }
+
+        span.Heading4Char {
+            mso-style-name: "Heading 4 Char";
+            mso-style-link: "Heading 4";
+            font-family: "Cambria","serif";
+            color: #4F81BD;
+            font-weight: bold;
+            font-style: italic;
+        }
+
+        span.Heading5Char {
+            mso-style-name: "Heading 5 Char";
+            mso-style-link: "Heading 5";
+            font-family: "Cambria","serif";
+            color: #243F60;
+        }
+
+        span.Heading6Char {
+            mso-style-name: "Heading 6 Char";
+            mso-style-link: "Heading 6";
+            font-family: "Cambria","serif";
+            color: #243F60;
+            font-style: italic;
+        }
+
+        span.Heading7Char {
+            mso-style-name: "Heading 7 Char";
+            mso-style-link: "Heading 7";
+            font-family: "Cambria","serif";
+            color: #404040;
+            font-style: italic;
+        }
+
+        span.Heading8Char {
+            mso-style-name: "Heading 8 Char";
+            mso-style-link: "Heading 8";
+            font-family: "Cambria","serif";
+            color: #404040;
+        }
+
+        span.Heading3Char {
+            mso-style-name: "Heading 3 Char";
+            mso-style-link: "Heading 3";
+            font-family: "Cambria","serif";
+            color: #4F81BD;
+            font-weight: bold;
+        }
+
+        p.time, li.time, div.time {
+            mso-style-name: time;
+            margin-right: 0cm;
+            margin-left: 0cm;
+            font-size: 9.0pt;
+            font-family: "Times New Roman","serif";
+            color: #F47B20;
+        }
+
+        span.z-TopofFormChar {
+            mso-style-name: "z-Top of Form Char";
+            mso-style-link: "z-Top of Form";
+            font-family: "Arial","sans-serif";
+            display: none;
+        }
+
+        span.z-BottomofFormChar {
+            mso-style-name: "z-Bottom of Form Char";
+            mso-style-link: "z-Bottom of Form";
+            font-family: "Arial","sans-serif";
+            display: none;
+        }
+
+        span.instruc {
+            mso-style-name: instruc;
+        }
+
+        span.sharedowntext1 {
+            mso-style-name: share_down_text1;
+            color: #666666;
+            font-weight: bold;
+        }
+
+        .MsoChpDefault {
+            font-family: "Calibri","sans-serif";
+        }
+
+        .MsoPapDefault {
+            margin-bottom: 10.0pt;
+            line-height: 115%;
+        }
+        /* Page Definitions */
+        @page WordSection1 {
+            size: 612.0pt 792.0pt;
+            margin: 70.85pt 30.8pt 35.45pt 3.0cm;
+        }
+
+        div.WordSection1 {
+            page: WordSection1;
+        }
+        /* List Definitions */
+        ol {
+            margin-bottom: 0cm;
+        }
+
+        ul {
+            margin-bottom: 0cm;
+        }
+        -->
+    </style>
+
+</head>
+
+<body lang=ES>
+
+    <div class=WordSection1>
+
+        <p class=MsoNormal style='margin-left:21.3pt;text-align:justify'>
+            <span lang=ES-MX>
+            </span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b><span lang=ES-MX>[nombre de la aseguradora]</span></b><span lang=ES-MX>
+                <span>
+                    [fecha de elaboración del informe en formato largo]
+                </span>
+            </span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'><span lang=ES-MX>[domicilio fiscal]</span></p>
+
+        <p class=MsoNormal style='text-align:justify'><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal>
+            <b><span lang=ES-MX>At’n.:</span></b><span lang=ES-MX>
+                [nombre del responsable de la sucursal de la aseguradora asociada al siniestro]
+            </span><span lang=ES-MX>       </span>
+        </p>
+
+        <p class=MsoNormal>
+            <span lang=ES-MX>
+            </span>
+        </p>
+
+        <p class=MsoNormal style='margin-left:247.8pt;text-indent:35.4pt'>
+            <span lang=ES-MX>
+                N. / Referencia: <b>
+                    <i>
+                        <span>
+                            [referencia del siniestro]
+                        </span>
+                    </i>
+                </b>
+            </span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <span lang=ES-MX
+                  style='font-size:16.0pt'>&nbsp;</span>
+        </p>
+
+        <p class=MsoNormal align=center style='text-align:center'>
+            <span lang=ES-MX
+                  style='font-size:16.0pt'>INFORME PRELIMINAR</span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <span lang=ES-MX>&nbsp;</span>
+        </p>
+
+        <p class=MsoNormal>
+            <b><span lang=ES-MX>SINIESTRO:                                    </span></b><span lang=ES-MX>[dato “# Siniestro” de pestaña “Siniestro”]</span><span lang=ES-MX></span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <span lang=ES-MX>
+            </span>
+        </p>
+
+        <p class=MsoNormal>
+            <b><span lang=ES-MX>PÓLIZA:                                          </span></b><span lang=ES-MX>[dato “# Póliza” de pestaña “Póliza”]</span>
+        </p>
+
+        <p class=MsoNormal><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>ASEGURADO:</span>
+            </b><span lang=ES-MX>[dato “Asegurado” de pestaña “Reporte”]</span><span lang=ES-MX></span>
+        </p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>&nbsp;</span>
+            </b>
+        </p>
+
+        <p class=MsoNormal style='margin-left:141.8pt;text-indent:-141.8pt'>
+            <b>
+                <span lang=ES-MX>GIRO:</span>
+            </b><span lang=ES-MX>[dato “Giro” de pestaña “Póliza”]</span>
+        </p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>DOMICILIO ASEGURADO:</span>
+            </b><span lang=ES-MX>[“Domicilio Asegurado” de pestaña “Póliza”]</span>
+        </p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <span lang=ES-MX>&nbsp;</span>
+        </p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>LUGAR DEL SINIESTRO:</span>
+            </b><span lang=ES-MX>[“Lugar del Siniestro” de pestaña “Siniestro”]</span>
+        </p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>
+                </span>
+            </b>
+        </p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>VIGENCIA:</span>
+            </b><span lang=ES-MX>
+                [vigencia de la póliza con formato de fecha largo y considerando “de” a” el dato se obtiene de pestaña “Póliza”]
+            </span>
+        </p>
+
+        <p class=MsoNormal><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>FECHA DEL SINIESTRO:</span>
+            </b><span lang=ES-MX>
+                [dato “fecha y hora del siniestro” en formato largo, obtenido de pestaña “Siniestro”]
+            </span>
+        </p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>FECHA DEL REPORTE:</span>
+            </b><span lang=ES-MX>
+                [dato “fecha y hora del reporte” en formato largo, obtenido de pestaña “Reporte”]
+            </span>
+        </p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>COBERTURA:</span>
+            </b><span lang=ES-TRAD>
+                [la información debe ser tomada del primer registro de cobertura capturado en la pestaña “coberturas”, el dato a mostrar será “Ramo” y “Subramo/cobertura”]
+            </span>
+        </p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal>
+            <b><span lang=ES-MX>CAUSA DEL SINIESTRO:                       </span></b><span lang=ES-MX>[campo “Causa” de pestaña “Siniestro”]</span>
+        </p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>BIENES AFECTADOS:</span>
+            </b><span lang=ES-MX>
+                [campo “Descripción (personas/bienes)” de pestaña “Siniestro”]
+            </span>
+        </p>
+
+        <p class=MsoNormal>
+            <b><span lang=ES-MX>                                                      </span></b><span lang=ES-MX></span>
+        </p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>SUMA ASEGURADA:</span>
+            </b><span lang=ES-TRAD>
+                [la información debe ser tomada del primer registroS de cobertura capturado en la pestaña “coberturas”]<span>
+                </span>
+            </span>
+        </p>
+
+        <p class=MsoNormal></p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>ESTIMACIÓN:</span>
+            </b><span lang=ES-MX>
+                [dato “monto estimado” tomado de la pestaña “Siniestro”]
+            </span><span lang=ES-MX> </span><span lang=ES-TRAD>
+            </span>
+        </p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>DEDUCIBLE:</span>
+            </b><span lang=ES-MX>
+                [dato “deducible” tomado de la pestaña “Siniestro”]
+            </span><span lang=ES-MX> </span><span lang=ES-TRAD>
+            </span>
+        </p>
+
+        <p class=MsoNormal><span lang=ES-MX>  </span></p>
+
+        <p class=MsoNormal style='margin-left:177.0pt;text-indent:-177.0pt'>
+            <b>
+                <span lang=ES-MX>RESERVA:</span>
+            </b><span lang=ES-MX>
+                [dato “reserva” tomado de la pestaña “Siniestro”]
+            </span><span lang=ES-MX> </span><span lang=ES-TRAD>
+            </span>
+        </p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal>
+            <b><span lang=ES-MX>TIPO DE CAMBIO:                       </span></b><span lang=ES-MX>
+                [dato “tipo de cambio” tomado de la pestaña “Póliza”]
+            </span>
+        </p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal><b><u><span lang=ES-MX>ANTECEDENTES.</span></u></b></p>
+
+        <p class=MsoNormal>
+            <span lang=ES-MX>
+                El <span>
+                    [“fecha y hora de reporte” en formato largo tomado de la pestaña “Reporte”]
+                </span> recibimos
+                reporte de asignación de siniestro por daños ocurridos dentro de instalaciones
+                del asegurado sobre vehículo de cliente, acudimos a la inspección de los daños.
+            </span>
+        </p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b><span lang=ES-MX>Contacto: </span></b><span lang=ES-MX>
+                [mostrar información de la sección “Contacto” ubicada en la pestaña “Reporte”]
+            </span>
+        </p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        [Coberturas]
+
+        [Endosos]
+
+        <p class=MsoNormal style='text-autospace:none'><span lang=ES-TRAD>&nbsp;</span></p>
+
+        <p class=MsoBodyText3><b><u><span lang=ES-MX>CIRCUNSTANCIAS DEL SINIESTRO.</span></u></b></p>
+
+        <p class=MsoNormal style='margin-right:7.1pt;text-align:justify;text-autospace:
+none'>
+            <span lang=ES-MX style='letter-spacing:.05pt'>
+                [la información mostrada en esta sección corresponde al dato “detalle de la causa” ubicado en la pestaña “Siniestro”]
+            </span>
+        </p>
+
+        <p class=MsoNormal style='margin-top:2.05pt;margin-right:15.4pt;margin-bottom:
+0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;text-autospace:
+none'><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b>
+                <u>
+                    <span lang=ES-MX>
+                        CAUSA /
+                        ORIGEN.
+                    </span>
+                </u>
+            </b>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <span lang=ES-MX>[dato “causa” tomado de la pestaña “Siniestro”]</span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <span lang=ES-MX>&nbsp;</span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'><b><u><span lang=ES-MX>INVESTIGACION.</span></u></b></p>
+
+
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b>
+                <u>
+                    <span lang=ES-MX>
+                        <span style='text-decoration:none'>&nbsp;</span>
+                    </span>
+                </u>
+            </b>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b>
+                <u>
+                    <span lang=ES-MX>
+                        RECUPERACIÓN.
+                    </span>
+                </u>
+            </b>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <span lang=ES-MX>
+                [dato “recuperación” tomado de la sección “Análisis del siniestro” ubicado en la pestaña “Siniestro”]
+            </span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b>
+                <span lang=ES-MX>
+                    Fecha aviso
+                    de recuperación:
+                </span>
+            </b><span lang=ES-MX>
+                <span>
+                    [dato “fecha aviso de recuperación” tomado de la sección “Análisis del siniestro” ubicado en la pestaña “Siniestro”]
+                </span>
+            </span>
+        </p>
+
+        <p class=MsoHeader style='text-align:justify'>
+            <span lang=ES-MX
+                  style='font-size:12.0pt;font-family:"Times New Roman","serif";background:yellow'></span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b>
+                <u>
+                    <span lang=ES-MX>
+                        SUBROGACIÓN.
+                    </span>
+                </u>
+            </b>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <span lang=ES-MX>
+                [dato “subrogación de derechos” tomado de la sección “Análisis del siniestro” ubicado en la pestaña “Siniestro”]
+            </span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b>
+                <span lang=ES-MX>
+                    Fecha aviso
+                    de subrogación de derechos:
+                </span>
+            </b><span lang=ES-MX>
+                <span>
+                    [dato “fecha aviso de subrogación de derechos” tomado de la sección “Análisis del siniestro” ubicado en la pestaña “Siniestro”]
+                </span>
+            </span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b>
+                <span lang=ES-MX>
+                    Fecha vencimiento
+                    de subrogación de derechos:
+                </span>
+            </b><span lang=ES-MX>
+                <span>
+                    [dato “fecha vencimiento de subrogación de derechos” tomado de la sección “Análisis del siniestro” ubicado en la pestaña “Siniestro”]
+                </span>
+            </span>
+        </p>
+
+        <p class=MsoBodyText3><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoBodyText3><b><u><span lang=ES-TRAD>SALVAMENTO. </span></u></b></p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <span lang=ES-MX>
+                [dato “salvamenti” tomado de la sección “Análisis del siniestro” ubicado en la pestaña “Siniestro”]
+            </span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b>
+                <span lang=ES-MX>
+                    Fecha aviso
+                    de salvamento:
+                </span>
+            </b><span lang=ES-MX>
+                <span>
+                    [dato “fecha aviso de salvamento” tomado de la sección “Análisis del siniestro” ubicado en la pestaña “Siniestro”]
+                </span>
+            </span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b>
+                <span lang=ES-MX>
+                    Estimación
+                    del valor de salvamento:
+                </span>
+            </b><span lang=ES-MX>
+                <span>
+                    [dato “estimación del valor de salvamento” tomado de la sección “Análisis del siniestro” ubicado en la pestaña “Siniestro”]
+                </span>
+            </span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b>
+                <span lang=ES-MX>
+                    Ubicación del
+                    salvamento:
+                </span>
+            </b><span lang=ES-MX>
+                <span>
+                    [dato “ubicación del salvamento” tomado de la sección “Análisis del siniestro” ubicado en la pestaña “Siniestro”]
+                </span>
+            </span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'>
+            <b>
+                <span lang=ES-MX>
+                    Condiciones
+                    de póliza para disposición de salvamento:
+                </span>
+            </b><span lang=ES-MX>
+                <span>
+                    [dato “condiciones de póliza para disposición de salvamento” tomado de la sección “Análisis del siniestro” ubicado en la pestaña “Siniestro”]
+                </span>
+            </span>
+        </p>
+
+        <p class=MsoNormal style='text-align:justify'><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoBodyText3><b><u><span lang=ES-TRAD>SITUACIÓN ACTUAL.</span></u></b></p>
+
+        <p class=MsoBodyText3><b><u><span lang=ES-MX><span style='text-decoration:none'>&nbsp;</span></span></u></b></p>
+
+        <p class=MsoBodyText3><b><u><span lang=ES-TRAD>OBSERVACIONES.</span></u></b></p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>Atentamente.</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><span lang=ES-MX>&nbsp;</span></p>
+
+        <p class=MsoNormal align=center style='text-align:center'>
+            <span lang=ES-MX>
+                [dato “# cédula” tomado del catálogo de usuarios correspondiente al usuario autentificado en el sistema]
+            </span>
+        </p>
+
+        <p class=MsoNormal align=center style='text-align:center'>
+            <b>
+                <span lang=ES-MX>
+                    Lic.
+                </span>
+            </b><span lang=ES-MX>
+                [dato “nombre completo” del usuario autentificado en el sistema, tomado del catálogo de usuarios]
+            </span>
+        </p>
+
+        <p class=MsoNormal align=center style='text-align:center'>
+            <span lang=ES-MX>
+                [dato “rol” del usuario autentificado en el sistema, tomado del catálogo de usuarios]
+            </span>
+        </p>
+
+        <p class=MsoNormal align=center style='text-align:center'>
+            <b>
+                <span lang=ES-MX>
+                    Ajustadores
+                    Mexicanos, SC.
+                </span>
+            </b>
+        </p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'>
+            <span lang=ES-MX>
+                [agregar imagen de la cédula, del usuario autentificado, tomada del catálogo de usuarios]
+            </span>
+        </p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+        <p class=MsoNormal align=center style='text-align:center'><b><span lang=ES-MX>&nbsp;</span></b></p>
+
+    </div>
+
+</body>
+
+</html>

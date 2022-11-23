@@ -1,0 +1,1 @@
+https://maps.google.com/maps/api/geocode/json?key=AIzaSyCN5YlYKfOuVVJGxRzIEmekifZeGT_3sgE&sensor=false&address=ma+c+blancari+#12+15,quintas+del+pariso,guadalajara,	jalisco,+mexico
