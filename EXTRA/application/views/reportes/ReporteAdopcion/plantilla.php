@@ -174,7 +174,7 @@
 					  <table width="100%">
 						<tr>
 							<td align="center" style="font-size:18px">
-									<b>Reporte Eventos de Adopcion</b>
+									<b>Reporte Eventos de Adopcion comprobacion</b>
 							</td>							 
 						</tr>
 						<tr>
