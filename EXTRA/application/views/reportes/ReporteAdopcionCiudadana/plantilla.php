@@ -46,8 +46,8 @@
 		</style>
 		
 		
-		 <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
-		 <script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>		
+		 <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+		 <script src="https://code.jquery.com/jquery-1.8.2.min.js"></script>		
 		 <script src="<?= base_url().'js/plugins/morris/raphael.min.js'?>"></script>
 		<script src="<?= base_url().'js/plugins/morris/morris.min.js'?>"></script>
 		<script src="<?= base_url().'js/plugins/morris/morris-data.js'?>"></script>
